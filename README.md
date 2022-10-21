@@ -1,16 +1,11 @@
-# intern_assignment
+# UI Screen in flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot 2022-10-21 150249](https://user-images.githubusercontent.com/92510571/197167095-364d1cb4-d9e4-4408-9e45-303c2d690009.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot 2022-10-21 152125](https://user-images.githubusercontent.com/92510571/197168017-5a8677d1-5fd2-4341-812a-a31665aa0d56.jpg)
